@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835561269321",
+    "project_id": "carservices-fd6b2",
+    "storage_bucket": "carservices-fd6b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835561269321:android:984a0ee6b1ba0335223798",
+        "android_client_info": {
+          "package_name": "com.example.car_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835561269321-hcng88vsajlo83f2oniil5n04jgb7l9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9YmVZPBRtKkbYrGIKcNSi4LzuoOxWoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835561269321-hcng88vsajlo83f2oniil5n04jgb7l9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

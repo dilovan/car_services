@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 200,
+    "diffEditor.wordWrap": "off",
+    "editor.wrappingIndent": "none",
+    "editor.wrappingStrategy": "simple",
+    "workbench.editor.wrapTabs": false,
+    "html.format.wrapLineLength": 400
+}
